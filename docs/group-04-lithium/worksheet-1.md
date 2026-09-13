@@ -15,7 +15,7 @@
 |                            | 4. Xerxes Gelo C. Ramos     |
 |                            | 5. Ma. Tisha Li U. Gohetia     |
 |                            | 6. Mia Avisha M. Montinola      |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Canteen        |
 
 ---
 
