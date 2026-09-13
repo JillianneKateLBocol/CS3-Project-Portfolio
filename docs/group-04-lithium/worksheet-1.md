@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| **Team Members**           | 1. Jillianne Kate L. Bocol     |
+|                            | 2. Gabrielle Julia D. Villarico    |
+|                            | 3. Riley Lachish R. Rivera     |
+|                            | 4. Xerxes Gelo C. Ramos     |
+|                            | 5. Ma. Tisha Li U. Gohetia     |
+|                            | 6. Mia Avisha M. Montinola      |
 | **PSHS-DRC Area/Location** |         |
 
 ---
