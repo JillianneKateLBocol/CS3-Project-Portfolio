@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> this is a sample answer. this is a sample answer. this is a sample answer.
+> The process of both girl & boy dormers going to the canteen to order food and drinks on the weekends.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose is to allow these dormers to order food & drinks from the canteen so that they have guaranteed food that’s healthier and easier to access than takeout orders.
 
 <br>
 
@@ -37,20 +37,20 @@
 
 **(Up to two roles only.)**
 
-| Person/Role | Responsibility in the Process |
-| ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+|          Person/Role         |        Responsibility in the Process      |
+| ---------------------------- | ----------------------------------------- |
+| 1. Dormers                   | Preorder food for the weekend             |
+| 2. Canteen staff             | Make and deliver the food for the dormers |
 
 ### 4. What are the steps in the current process?
 
-| Step | What happens? | Person/Role Involved |
-| ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| Step |                 What happens?                 | Person/Role Involved |
+| ---- | --------------------------------------------- | -------------------- |
+| 1    | Dormers would go to the canteen               | Dormers              |
+| 2    | The canteen would take down their orders      | Canteen staff        |
+| 3    | The dormers would pay                         | Dormers              |
+| 4    | The canteen would make all orders             | Canteen staff        |
+| 5    | They would deliver the food to the dorm lobby | Canteen staff        |
 
 ---
 
@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> Dormers get tired of eating sometimes, especially when the line is long; the canteen staff may also have trouble managing and keeping up with so many orders.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The ordering process can be automated for the efficiency and comfort of both canteen staff and dormers, this will save both parties a lot of time.
 
 <br>
 
@@ -74,16 +74,16 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> Our site will show available food and drink choices and dormers can choose from these choices to make their order. Once a dormer makes his or her order, he or she will then need to pay digitally with methods such as GCash. On the canteen's side of the program, they will simply have to click a button to confirm the order. Once confirmed, the dormer will get a notification and the site will show that his or her order was processed. Once all orders are prepared, the canteen can drop it off in the dorm lobby and the dormers can claim their orders in the lobby.
 
 <br>
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+|  User/Role |                                            Possible Use                                                  |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| 1.  Dormer | Pre-order food for the weekend before the weekend so they don't have to resort to expensive food outside.|
+| 2.         |                                                                                                          |
 
 ### 3. What are the essential features?
 
