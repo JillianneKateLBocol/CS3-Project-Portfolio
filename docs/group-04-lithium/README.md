@@ -2,11 +2,11 @@
 
 ## Members
 
-1.
-2. 
+1. Jiliane Kate L. Bocol
+2. Mia Avisha 
 3. Ma. Tisha Li U. Gohetia
-4. 
-5. 
+4. Xerxes Gelo C. Ramos
+5. Riley La
 6. Gabrielle Julia D. Villarico
 
 ## Project Title
