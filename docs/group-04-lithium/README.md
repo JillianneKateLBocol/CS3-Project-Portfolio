@@ -3,7 +3,7 @@
 ## Members
 
 1. Jiliane Kate L. Bocol
-2. Mia Avisha 
+2. Mia Avisha M. Montinola
 3. Ma. Tisha Li U. Gohetia
 4. Xerxes Gelo C. Ramos
 5. Riley Lachish R. Rivera
