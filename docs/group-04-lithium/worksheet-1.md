@@ -11,7 +11,7 @@
 | **Proposed Project Title** |                                 |
 | **Team Members**           | 1. Gabrielle Julia D. Villarico      |
 |                            | 2. Jillianne Kate L. Bocol     |
-|                            | 3. Ma. Tisha Li U. Gohetia      |
+|                            | 3. Ma. Tisha Li U. Gohetia.      |
 |                            | 4. Mia Avisha M. Montinola         |
 |                            | 5. Riley Lachish R. Rivera      |
 |                            | 6. Xerxes Gelo C. Ramos
@@ -40,7 +40,7 @@
 |          Person/Role         |        Responsibility in the Process      |
 | ---------------------------- | ----------------------------------------- |
 | 1. Dormers                   | Preorder food for the weekend             |
-| 2. Canteen staff             | Make and deliver the food for the dormers |
+| 2. Canteen staff              | Make and deliver the food for the dormers |
 
 ### 4. What are the steps in the current process?
 
