@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> Dormers get tired of eating sometimes, especially when the line is long; the canteen staff may also have trouble managing and keeping up with so many orders.
+> Dormers get tired of eating of eating sometimes, especially if the line is long; the canteen staff may also have a hard time managing so many orders.
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> The ordering process can be automated for the efficiency and comfort of both canteen staff and dormers, this will save both parties a lot of time.
+> The ordering process can be automated for the efficiency and comfort of the canteen staff and dormers, this will save everyone a lot of time and effort.
 
 <br>
 
