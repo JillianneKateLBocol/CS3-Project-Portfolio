@@ -6,16 +6,16 @@
 
 ## 1. Project Information
 
-| Information                | Details |
-| -------------------------- | ------- |
-| **Proposed Project Title** |         |
-| **Team Members**           | 1. Jillianne Kate L. Bocol     |
-|                            | 2. Gabrielle Julia D. Villarico    |
-|                            | 3. Riley Lachish R. Rivera     |
-|                            | 4. Xerxes Gelo C. Ramos     |
-|                            | 5. Ma. Tisha Li U. Gohetia     |
-|                            | 6. Mia Avisha M. Montinola      |
-| **PSHS-DRC Area/Location** | Canteen        |
+| Information                |             Details             |
+| -------------------------- | ------------------------------- |
+| **Proposed Project Title** |                                 |
+| **Team Members**           | 1. Jillianne Kate L. Bocol      |
+|                            | 2. Mia Avisha M. Montinola      |
+|                            | 3. Ma. Tisha Li U. Gohetia      |
+|                            | 4. Xerxes Gelo C. Ramos         |
+|                            | 5. Riley Lachish R. Rivera      |
+|                            | 6. Gabrielle Julia D. Villarico |
+| **PSHS-DRC Area/Location** | Canteen                         |
 
 ---
 
