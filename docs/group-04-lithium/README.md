@@ -2,12 +2,12 @@
 
 ## Members
 
-1. 
+1.
 2. 
 3. Ma. Tisha Li U. Gohetia
 4. 
 5. 
-6. 
+6. Gabrielle Julia D. Villarico
 
 ## Project Title
 
