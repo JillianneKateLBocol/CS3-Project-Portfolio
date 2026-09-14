@@ -8,7 +8,7 @@
 
 | Information                |             Details             |
 | -------------------------- | ------------------------------- |
-| **Proposed Project Title** |                                 |
+| **Proposed Project Title** | Web-based Canteen Pre-Ordering System                                |
 | **Team Members**           | 1. Gabrielle Julia D. Villarico      |
 |                            | 2. Jillianne Kate L. Bocol     |
 |                            | 3. Ma. Tisha Li U. Gohetia.      |
