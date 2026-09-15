@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> The process of both girl & boy dormers going to the canteen to order food and drinks on the weekends.
+> The process of both girl & boy dormers going to the canteen to order food and drinks on the weekends. 
 
 <br>
 
