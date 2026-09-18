@@ -11,4 +11,4 @@
 
 ## Project Title
 
-_To be determined._
+_Web-based Canteen Pre-Ordering System._
